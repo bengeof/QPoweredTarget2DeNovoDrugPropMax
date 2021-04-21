@@ -159,6 +159,7 @@ keras
 bisect
 Levenshtein
 tensorflow
+pennylane
 
 markdown==3.2.1 \
     --hash=sha256:e4795399163109457d4c5af2183fbe6b60326c17cfdf25ce6e7474c6624f725d \
